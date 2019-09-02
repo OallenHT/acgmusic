@@ -1123,11 +1123,6 @@ a.media {
         text-align: center;
         margin-bottom: 1rem
     }
-
-    .nav > *, .nav-vertical > * {
-        display: table-cell;
-        width: 1%
-    }
 }
 
 @media (min-width: 960px) {
